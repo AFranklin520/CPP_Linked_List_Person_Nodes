@@ -1,0 +1,300 @@
+March 21, 2022
+Anthony Franklin
+afranklin18@cnm.edu
+Program to emulate a linked list using Person Nodes
+
+
+This list is already empty, unable to clear it!
+Trying to remove names containing the following from the list: VIRGINIA
+
+This list is already empty, unable to clear it!
+
+
+Deleting person at index position: 4
+
+
+This list is already empty, unable to clear it!
+
+Trying to remove last person from the list: 
+
+This list is already empty, unable to clear it!
+
+Trying to remove first person from the list: 
+
+This list is already empty, unable to clear it!
+
+This list is already empty, unable to clear it!
+
+Adding new person to the end of the list: 
+
+Number of persons in the link list: 1
+WALLACE, JO 
+
+Adding new person to the end of the list: 
+
+Number of persons in the link list: 2
+WALLACE, JO  --> RAY, JUAN 
+
+Adding new person to the end of the list: 
+
+Number of persons in the link list: 3
+WALLACE, JO  --> RAY, JUAN  --> HERNANDEZ, PAULINE 
+
+Adding new person to the end of the list: 
+
+Number of persons in the link list: 4
+WALLACE, JO  --> RAY, JUAN  --> HERNANDEZ, PAULINE  --> SIMMONS, ROBERT 
+
+Adding new person to the end of the list: 
+
+Number of persons in the link list: 5
+WALLACE, JO  --> RAY, JUAN  --> HERNANDEZ, PAULINE  --> SIMMONS, ROBERT  --> 
+PORTER, TRACY 
+
+Adding new person to the end of the list: 
+
+Number of persons in the link list: 6
+WALLACE, JO  --> RAY, JUAN  --> HERNANDEZ, PAULINE  --> SIMMONS, ROBERT  --> 
+PORTER, TRACY  --> HOLMES, ROBERT 
+
+Adding new person to the end of the list: 
+
+Number of persons in the link list: 7
+WALLACE, JO  --> RAY, JUAN  --> HERNANDEZ, PAULINE  --> SIMMONS, ROBERT  --> 
+PORTER, TRACY  --> HOLMES, ROBERT  --> JACKSON, JANICE 
+
+Adding new person to the end of the list: 
+
+Number of persons in the link list: 8
+WALLACE, JO  --> RAY, JUAN  --> HERNANDEZ, PAULINE  --> SIMMONS, ROBERT  --> 
+PORTER, TRACY  --> HOLMES, ROBERT  --> JACKSON, JANICE  --> MILLER, ALVIN 
+
+Adding new person to the end of the list: 
+
+Number of persons in the link list: 9
+WALLACE, JO  --> RAY, JUAN  --> HERNANDEZ, PAULINE  --> SIMMONS, ROBERT  --> 
+PORTER, TRACY  --> HOLMES, ROBERT  --> JACKSON, JANICE  --> MILLER, ALVIN  --> 
+LEE, HELEN 
+
+Adding new person to the end of the list: 
+
+Number of persons in the link list: 10
+WALLACE, JO  --> RAY, JUAN  --> HERNANDEZ, PAULINE  --> SIMMONS, ROBERT  --> 
+PORTER, TRACY  --> HOLMES, ROBERT  --> JACKSON, JANICE  --> MILLER, ALVIN  --> 
+LEE, HELEN  --> ANDERSON, FREDDIE 
+
+Adding new person to the front of the list: 
+
+Number of persons in the link list: 11
+WALLACE, JO  --> RAY, JUAN  --> HERNANDEZ, PAULINE  --> SIMMONS, ROBERT  --> 
+PORTER, TRACY  --> HOLMES, ROBERT  --> JACKSON, JANICE  --> MILLER, ALVIN  --> 
+LEE, HELEN  --> ANDERSON, FREDDIE  --> BRYANT, SANDRA 
+
+Adding new person to the front of the list: 
+
+Number of persons in the link list: 12
+WALLACE, JO  --> RAY, JUAN  --> HERNANDEZ, PAULINE  --> SIMMONS, ROBERT  --> 
+PORTER, TRACY  --> HOLMES, ROBERT  --> JACKSON, JANICE  --> MILLER, ALVIN  --> 
+LEE, HELEN  --> ANDERSON, FREDDIE  --> BRYANT, SANDRA  --> ROBERTSON, JORGE 
+
+Adding new person to the front of the list: 
+
+Number of persons in the link list: 13
+WALLACE, JO  --> RAY, JUAN  --> HERNANDEZ, PAULINE  --> SIMMONS, ROBERT  --> 
+PORTER, TRACY  --> HOLMES, ROBERT  --> JACKSON, JANICE  --> MILLER, ALVIN  --> 
+LEE, HELEN  --> ANDERSON, FREDDIE  --> BRYANT, SANDRA  --> ROBERTSON, JORGE  --> 
+WILLIS, SHELLY 
+
+Trying to remove names containing the following from the list: ROBERT
+
+Number of persons in the link list: 10
+WALLACE, JO  --> RAY, JUAN  --> HERNANDEZ, PAULINE  --> PORTER, TRACY  --> 
+JACKSON, JANICE  --> MILLER, ALVIN  --> LEE, HELEN  --> ANDERSON, FREDDIE  --> 
+BRYANT, SANDRA  --> WILLIS, SHELLY 
+
+Clearing the list now: 
+
+This list is already empty, unable to clear it!
+
+Trying to remove names containing the following from the list: VIRGINIA
+
+This list is already empty, unable to clear it!
+
+
+Deleting person at index position: 4
+
+
+This list is already empty, unable to clear it!
+
+Trying to remove last person from the list: 
+
+This list is already empty, unable to clear it!
+
+Trying to remove first person from the list: 
+
+This list is already empty, unable to clear it!
+
+This list is already empty, unable to clear it!
+
+Adding new person to the front of the list: 
+
+Number of persons in the link list: 1
+RICHARDS, RENE 
+
+Adding new person to the front of the list: 
+
+Number of persons in the link list: 2
+RICHARDS, RENE  --> MENDOZA, KATHY 
+
+Adding new person to the front of the list: 
+
+Number of persons in the link list: 3
+RICHARDS, RENE  --> MENDOZA, KATHY  --> KENNEDY, WALLACE 
+
+Adding new person to the front of the list: 
+
+Number of persons in the link list: 4
+RICHARDS, RENE  --> MENDOZA, KATHY  --> KENNEDY, WALLACE  --> MITCHELL, ROBERTA 
+
+Adding new person to the front of the list: 
+
+Number of persons in the link list: 5
+RICHARDS, RENE  --> MENDOZA, KATHY  --> KENNEDY, WALLACE  --> MITCHELL, ROBERTA  --> 
+MCKINNEY, CECIL 
+
+Adding new person to the end of the list: 
+
+Number of persons in the link list: 6
+RICHARDS, RENE  --> MENDOZA, KATHY  --> KENNEDY, WALLACE  --> MITCHELL, ROBERTA  --> 
+MCKINNEY, CECIL  --> OLSON, JAMIE 
+
+Adding new person to the end of the list: 
+
+Number of persons in the link list: 7
+RICHARDS, RENE  --> MENDOZA, KATHY  --> KENNEDY, WALLACE  --> MITCHELL, ROBERTA  --> 
+MCKINNEY, CECIL  --> OLSON, JAMIE  --> CALDWELL, FREDDIE 
+
+Adding new person to the end of the list: 
+
+Number of persons in the link list: 8
+RICHARDS, RENE  --> MENDOZA, KATHY  --> KENNEDY, WALLACE  --> MITCHELL, ROBERTA  --> 
+MCKINNEY, CECIL  --> OLSON, JAMIE  --> CALDWELL, FREDDIE  --> BATES, DIANE 
+
+Adding new person to the end of the list: 
+
+Number of persons in the link list: 9
+RICHARDS, RENE  --> MENDOZA, KATHY  --> KENNEDY, WALLACE  --> MITCHELL, ROBERTA  --> 
+MCKINNEY, CECIL  --> OLSON, JAMIE  --> CALDWELL, FREDDIE  --> BATES, DIANE  --> 
+KNIGHT, JUSTIN 
+
+Adding new person to the end of the list: 
+
+Number of persons in the link list: 10
+RICHARDS, RENE  --> MENDOZA, KATHY  --> KENNEDY, WALLACE  --> MITCHELL, ROBERTA  --> 
+MCKINNEY, CECIL  --> OLSON, JAMIE  --> CALDWELL, FREDDIE  --> BATES, DIANE  --> 
+KNIGHT, JUSTIN  --> HERNANDEZ, DOROTHY 
+
+The size of the list: 10
+
+The first person in the list is: RICHARDS, RENE 
+
+The last person in the list is: HERNANDEZ, DOROTHY 
+
+Trying to remove first person from the list: 
+
+Number of persons in the link list: 9
+MENDOZA, KATHY  --> KENNEDY, WALLACE  --> MITCHELL, ROBERTA  --> MCKINNEY, CECIL  --> 
+OLSON, JAMIE  --> CALDWELL, FREDDIE  --> BATES, DIANE  --> KNIGHT, JUSTIN  --> 
+HERNANDEZ, DOROTHY 
+
+Trying to remove last person from the list: 
+
+Number of persons in the link list: 8
+MENDOZA, KATHY  --> KENNEDY, WALLACE  --> MITCHELL, ROBERTA  --> MCKINNEY, CECIL  --> 
+OLSON, JAMIE  --> CALDWELL, FREDDIE  --> BATES, DIANE  --> KNIGHT, JUSTIN 
+
+The first person in the list is: MENDOZA, KATHY 
+
+The last person in the list is: KNIGHT, JUSTIN 
+
+
+Deleting person at index position: 2
+
+
+Number of persons in the link list: 7
+MENDOZA, KATHY  --> MITCHELL, ROBERTA  --> MCKINNEY, CECIL  --> OLSON, JAMIE  --> 
+CALDWELL, FREDDIE  --> BATES, DIANE  --> KNIGHT, JUSTIN 
+
+
+Deleting person at index position: 8
+
+
+Number of persons in the link list: 7
+MENDOZA, KATHY  --> MITCHELL, ROBERTA  --> MCKINNEY, CECIL  --> OLSON, JAMIE  --> 
+CALDWELL, FREDDIE  --> BATES, DIANE  --> KNIGHT, JUSTIN 
+
+Clearing the list now: 
+
+This list is already empty, unable to clear it!
+
+Adding new person to the end of the list: 
+
+Number of persons in the link list: 1
+MATTHEWS, DWAYNE 
+
+Adding new person to the end of the list: 
+
+Number of persons in the link list: 2
+MATTHEWS, DWAYNE  --> LANE, JULIE 
+
+Adding new person to the end of the list: 
+
+Number of persons in the link list: 3
+MATTHEWS, DWAYNE  --> LANE, JULIE  --> EVANS, DAVE 
+
+Trying to remove last person from the list: 
+
+Number of persons in the link list: 2
+MATTHEWS, DWAYNE  --> LANE, JULIE 
+
+Trying to remove last person from the list: 
+
+Number of persons in the link list: 1
+MATTHEWS, DWAYNE 
+
+Trying to remove last person from the list: 
+
+This list is already empty, unable to clear it!
+
+Adding new person to the front of the list: 
+
+Number of persons in the link list: 1
+FORD, FLORENCE 
+
+Adding new person to the front of the list: 
+
+Number of persons in the link list: 2
+FORD, FLORENCE  --> KNIGHT, STEVE 
+
+Adding new person to the front of the list: 
+
+Number of persons in the link list: 3
+FORD, FLORENCE  --> KNIGHT, STEVE  --> HALE, AMANDA 
+
+Trying to remove first person from the list: 
+
+Number of persons in the link list: 2
+KNIGHT, STEVE  --> HALE, AMANDA 
+
+Trying to remove first person from the list: 
+
+Number of persons in the link list: 1
+HALE, AMANDA 
+
+Clearing the list now: 
+
+This list is already empty, unable to clear it!
+
+
+Exiting Program Now! 
+
